@@ -1,4 +1,4 @@
-# Bob-maker-v0.6
+# Bob-maker-v1.0
 
 ## how to download
 click on tag and than on releases
