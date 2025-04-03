@@ -1,7 +1,8 @@
 # Bob-maker-v1.0
 
 ## how to download
-click on tag and than on releases
+click on tag and than on releases and then on pc for pc (and the version you want like pc1.0)
+and on html for mobile or browser
 if you have done that click on the .exe file for windows and the .dmg file for mac (mac version above 10)
 - linux version is comming soon
 - browser version also comming soon
